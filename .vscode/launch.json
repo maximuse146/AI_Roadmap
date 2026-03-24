@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ЗАПУСТИТИ КОД",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "python": "C:/Users/maximuse/miniconda3/envs/ai_engineer/python.exe"
+        }
+    ]
+}
